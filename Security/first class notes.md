@@ -1,0 +1,3 @@
+- there are 5 quizzes, in total worth 15%
+	- the first quiz will be on the third week of school
+	- 
